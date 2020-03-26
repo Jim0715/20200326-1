@@ -1,4 +1,4 @@
 studentA = "I'm studentA"
-studentB="賴彥嘉M10821003"
+studentB="1賴彥嘉M10821003"
 print(studentA)
 print(studentB)
